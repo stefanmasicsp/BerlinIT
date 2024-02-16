@@ -10,3 +10,5 @@ Create directory **c:\Berlin\IT**
 `conda create --name BerlinIT`
 
 `conda activate BerlinIT`
+
+`conda install notebook numpy matplotlib pandas`
