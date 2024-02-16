@@ -12,3 +12,9 @@ Create directory **c:\Berlin\IT**
 `conda activate BerlinIT`
 
 `conda install notebook numpy matplotlib pandas`
+
+Start Jupyter
+
+`cd c:\Berlin\IT`
+
+`jupyter notebook`
